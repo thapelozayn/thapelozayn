@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thapelozayn
-- 👀 I’m interested in web development and graphic design 
-- 🌱 I’m currently learning information technology at Limkokwing University Of Creative Technology in Eswatini
+- 👀 I’m a web developer and graphic designer 
+- 🌱 I’m a graduate trainee in Information Technology at Limkokwing University Of Creative Technology in Eswatini
 - 📫 you can reach me on whatsapp (+268 79795421), facebook (thapelo zayn dlamini), instagram (za.yn435).
 
 <!---
